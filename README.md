@@ -1,8 +1,12 @@
 
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
+### :man_technologist: Hi there 👋
 
 <div style="display=flex">
-  <h1>Coding Languages I Use</h1>
+  <h1>:hammer_and_wrench: Languages and Tools I Use</h1>
   <ol>
     <li>C# for video-Games</li>
     <li>HTML</li>
