@@ -29,6 +29,15 @@
 🤔 I’m looking for help with c#, Unity, and shopify setup<br>
 ⚡ Fun fact: did you know that html and css work in your readme files in your repository? I just found this out :)
 
+<div align="center">
+  <br><br>
+  :fire: My Stats :
+  <br>
+  <br>
+  
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rjazzJohnson&theme=tokyonight&mode=weekly)](https://git.io/streak-stats)
+</div>
+
 
 <!--
 **rjazzJohnson/rjazzJohnson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
