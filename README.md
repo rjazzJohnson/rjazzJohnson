@@ -10,8 +10,11 @@
     <li>JAVASCRIPT</li>
   </ol>
 </div>
-
-🌱 I’m currently learning Shopify for webDevelopment and e-Commerce
+🔭 I’m currently working on a simple board-game on Unity<br>
+🌱 I’m currently learning Shopify for webDevelopment and e-Commerce<br>
+👯 I’m looking to collaborate on any game anyonw is making, the less esperianced the better, I love too help people learn<br>
+🤔 I’m looking for help with c#, Unity, and shopify setup<br>
+⚡ Fun fact: did you know that html and css work in your readme files in your repository? I just found this out :)
 <!--
 **rjazzJohnson/rjazzJohnson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
