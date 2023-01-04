@@ -2,7 +2,7 @@
 ### Hi there 👋
 
 <div style="display=flex">
-  <h1>Coding Languages</h1>
+  <h1>Coding Languages I Use</h1>
   <ol>
     <li>C# for video-Games</li>
     <li>HTML</li>
